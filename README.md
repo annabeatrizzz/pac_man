@@ -20,7 +20,7 @@ This project focuses on developing a Java-based version of Pac-Man, named Tiny-P
 ## Objectives
 - Different levels
 - Creating an initial menu (including a Top 5 feature)
-- Implementing a Wrapping Zone 
+- Implementing a Wrapping Zone / Wraparound 
 - Incorporating Food and Fruits to enhance Pac-Man's abilities
 - Utilize the motor de jogo provided by professors
 - Incorporating a Pause feature with options to resume or save the game progress 
