@@ -3,6 +3,7 @@ This project focuses on developing a Java-based version of Pac-Man, named Tiny-P
 <p align="center">
   <img src= pac_man.png/>
 </p>
+
 ---
 ## Covered Topics
 - Implementation of Software Design Patterns
