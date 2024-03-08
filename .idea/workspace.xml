@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccdbd86d-36f8-4d4d-9fa7-c591e4a2536e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2OKAfZN2stF84KxzekDGkpzwYOS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/annab/Downloads/TP_PA_finalVersion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pt.isec.pa.tinypac.ui.gui" />
+      <recent name="pt.isec.pa.tinypac.model.data.phantoms" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pa\TP_PA_versao6" />
+      <recent name="C:\pa\TP_PA_versao6\Testes\src\pt\isec\pa\tinypac\mode\fsm" />
+      <recent name="C:\pa\TP_PA_versao5\Testes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pa\TP_PA\src\pt\isec\pa\tinypac\ui\gui\resources\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JavaFxMain">
+    <configuration name="JavaFxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.ui.gui.JavaFxMain" />
+      <module name="TP_PA" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\annab\Downloads\openjfx-20.0.1_windows-x64_bin-sdk\javafx-sdk-20.0.1\lib&quot; --add-modules javafx.controls" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.ui.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.BeginState_teste_vulneravel" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Testes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.mode.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.isec.pa.tinypac.mode.fsm" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.mode.fsm.Tests" />
+      <option name="METHOD_NAME" value="BeginState_teste_vulneravel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.InGameState_teste_fim_jogo2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.mode.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.isec.pa.tinypac.mode.fsm" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.mode.fsm.Tests" />
+      <option name="METHOD_NAME" value="InGameState_teste_fim_jogo2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.VulnerableState_teste_fim_jogo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.mode.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.isec.pa.tinypac.mode.fsm" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.mode.fsm.Tests" />
+      <option name="METHOD_NAME" value="VulnerableState_teste_fim_jogo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.VulnerableState_teste_fim_jogo_ganhou" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.mode.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.isec.pa.tinypac.mode.fsm" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.mode.fsm.Tests" />
+      <option name="METHOD_NAME" value="VulnerableState_teste_fim_jogo_ganhou" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.VulnerableState_teste_vulneravel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Testes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pt.isec.pa.tinypac.mode.fsm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pt.isec.pa.tinypac.mode.fsm" />
+      <option name="MAIN_CLASS_NAME" value="pt.isec.pa.tinypac.mode.fsm.Tests" />
+      <option name="METHOD_NAME" value="VulnerableState_teste_vulneravel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaFxMain" />
+      <item itemvalue="JUnit.Tests.BeginState_teste_vulneravel" />
+      <item itemvalue="JUnit.Tests.InGameState_teste_fim_jogo2" />
+      <item itemvalue="JUnit.Tests.VulnerableState_teste_fim_jogo" />
+      <item itemvalue="JUnit.Tests.VulnerableState_teste_fim_jogo_ganhou" />
+      <item itemvalue="JUnit.Tests.VulnerableState_teste_vulneravel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaFxMain" />
+        <item itemvalue="JUnit.Tests.InGameState_teste_fim_jogo2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccdbd86d-36f8-4d4d-9fa7-c591e4a2536e" name="Changes" comment="" />
+      <created>1681299005275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681299005275</updated>
+      <workItem from="1681299006512" duration="2261000" />
+      <workItem from="1681371263147" duration="64000" />
+      <workItem from="1681397169037" duration="2373000" />
+      <workItem from="1681641798836" duration="8143000" />
+      <workItem from="1682109776320" duration="287000" />
+      <workItem from="1682159863887" duration="7669000" />
+      <workItem from="1682176807814" duration="1303000" />
+      <workItem from="1682239345773" duration="11670000" />
+      <workItem from="1682333024207" duration="18000" />
+      <workItem from="1682346886130" duration="41000" />
+      <workItem from="1682347042054" duration="364000" />
+      <workItem from="1682508309118" duration="27000" />
+      <workItem from="1682520033481" duration="3442000" />
+      <workItem from="1682599940084" duration="3949000" />
+      <workItem from="1682716856480" duration="3128000" />
+      <workItem from="1682753704572" duration="16101000" />
+      <workItem from="1682790633721" duration="7631000" />
+      <workItem from="1682805893102" duration="922000" />
+      <workItem from="1682847777785" duration="15676000" />
+      <workItem from="1682889226940" duration="3877000" />
+      <workItem from="1682929640826" duration="12207000" />
+      <workItem from="1682962418978" duration="4512000" />
+      <workItem from="1682969839745" duration="171000" />
+      <workItem from="1683144466853" duration="803000" />
+      <workItem from="1683186179271" duration="37000" />
+      <workItem from="1683190827054" duration="51000" />
+      <workItem from="1683195851393" duration="815000" />
+      <workItem from="1683495830075" duration="15000" />
+      <workItem from="1683496401409" duration="1440000" />
+      <workItem from="1683722480924" duration="11008000" />
+      <workItem from="1683814611719" duration="4300000" />
+      <workItem from="1683974341850" duration="3956000" />
+      <workItem from="1684161310417" duration="152000" />
+      <workItem from="1684332687474" duration="6415000" />
+      <workItem from="1684342014167" duration="5208000" />
+      <workItem from="1684416251738" duration="1190000" />
+      <workItem from="1684574864633" duration="3185000" />
+      <workItem from="1684662661614" duration="12962000" />
+      <workItem from="1684769684630" duration="3754000" />
+      <workItem from="1685268002959" duration="7852000" />
+      <workItem from="1685280331693" duration="16648000" />
+      <workItem from="1685345024599" duration="2188000" />
+      <workItem from="1685370967090" duration="8000" />
+      <workItem from="1685610996319" duration="29000" />
+      <workItem from="1685885700227" duration="32000" />
+      <workItem from="1685975969825" duration="32000" />
+      <workItem from="1685999508315" duration="75000" />
+      <workItem from="1686145686325" duration="17921000" />
+      <workItem from="1686222670000" duration="698000" />
+      <workItem from="1686324489759" duration="100000" />
+      <workItem from="1686341136976" duration="6022000" />
+      <workItem from="1686383521944" duration="9432000" />
+      <workItem from="1686408301450" duration="3609000" />
+      <workItem from="1686435727348" duration="249000" />
+      <workItem from="1686580847767" duration="554000" />
+      <workItem from="1686582392789" duration="767000" />
+      <workItem from="1686662668898" duration="8466000" />
+      <workItem from="1686739996057" duration="13055000" />
+      <workItem from="1686772334145" duration="7045000" />
+      <workItem from="1686817084398" duration="447000" />
+      <workItem from="1686819362559" duration="142000" />
+      <workItem from="1686841733033" duration="14834000" />
+      <workItem from="1686899828569" duration="2636000" />
+      <workItem from="1686918882755" duration="14283000" />
+      <workItem from="1686989344726" duration="8479000" />
+      <workItem from="1687011850720" duration="174000" />
+      <workItem from="1687012496317" duration="82000" />
+      <workItem from="1687012587128" duration="17527000" />
+      <workItem from="1687076165702" duration="3368000" />
+      <workItem from="1687079869318" duration="4173000" />
+      <workItem from="1687087193108" duration="2856000" />
+      <workItem from="1687094263846" duration="15410000" />
+      <workItem from="1687123216444" duration="5758000" />
+      <workItem from="1687136006380" duration="2974000" />
+      <workItem from="1709924863913" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pt/isec/pa/tinypac/model/fsm/StateAdapter.java</url>
+          <line>55</line>
+          <properties class="pt.isec.pa.tinypac.model.fsm.StateAdapter" method="reset_game">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pt/isec/pa/tinypac/model/fsm/StateAdapter.java</url>
+          <line>60</line>
+          <properties class="pt.isec.pa.tinypac.model.fsm.StateAdapter" method="passarDeNivel">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/pt/isec/pa/tinypac/model/data/Game.java</url>
+          <line>408</line>
+          <properties class="pt.isec.pa.tinypac.model.data.Game" method="evolve">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/pt/isec/pa/tinypac/model/data/Game.java</url>
+          <line>27</line>
+          <properties field="resetGame" class="pt.isec.pa.tinypac.model.data.Game" />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
